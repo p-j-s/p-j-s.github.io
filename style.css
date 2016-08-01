@@ -1,9 +1,9 @@
 body {
 	background-color: #e1e3e4;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
-/*   navbar  */
+/*   navbar  
 
 .navbar-fixed-left {
   width: 140px;
@@ -13,7 +13,7 @@ body {
 }
 
 .navbar-fixed-left .navbar-nav > li {
-  float: none;  /* Cancel default li float: left */
+  float: none;  /* Cancel default li float: left */ /*
   width: 139px;
 }
 
@@ -26,7 +26,7 @@ body {
 	background-color: #313131;
 	font-style: bold;
 	color: white;
-}
+}  */
 
 /*   home  */
 
@@ -38,7 +38,8 @@ body {
 .cover {
 	background-color: lightgrey;
 	padding: 0px;
-	height: 80%;
+	margin-bottom: 20px;
+	min-height: 80%;
 }
 
 .header {
