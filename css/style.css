@@ -3,6 +3,28 @@ body {
  	font-family: 'Lato', sans-serif;
 }
 
+#home {
+
+}
+
+#page-content-wrapper {
+	padding: 0px;
+}
+
+.cover-photo {
+	background-image: url("../img/reel.png");
+	background-position: center;
+	height: 750px;
+	margin: 0 0 0 0;
+}
+
+.cover-text {
+	 500px;
+	font-size: 10em;
+	font-style: bold;
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
 
 /*   Sidebar Overrides  */
 
