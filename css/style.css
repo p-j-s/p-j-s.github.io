@@ -30,6 +30,7 @@ body {
 .sidebar-brand a {
 	background-color: #00A0B0;
 	color: black !important;
+	font-size: 25px !important;
 }
 
 .sidebar-brand a:hover {
@@ -37,15 +38,23 @@ body {
 	color: white !important;
 }
 
+.sidebar-nav li a {
+	color: black;
+	font-size: 17px;
+}
+
 #sidebar-wrapper {
 	border-right: 1px solid darkgrey;
 }
+
+
 
 
 /*   Wells  */
 
 h1 {
 	border-bottom: 2px solid black;
+	color: black;
 }
 
 .well {
