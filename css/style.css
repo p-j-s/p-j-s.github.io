@@ -32,6 +32,12 @@ body {
 	font-style: bold;
 	color: white;
 	text-shadow: 2px 2px 4px black;
+	padding-top: 450px;
+
+}
+
+.cover-text.col-lg-* {
+	padding-top: 450px;
 }
 
 /*   Sidebar Overrides  */
@@ -45,7 +51,7 @@ body {
 
 .sidebar-brand a:hover {
 	background-color: none !important;
-	color: white !important;
+	color: #f1c40f !important;
 }
 
 .sidebar-nav li a {
@@ -118,6 +124,12 @@ body {
 	-webkit-border-radius: 50%;
 }
 
+
+/*   banner text  */
+
+.banner-lg {
+
+}
 
 /*   Wells  */
 
