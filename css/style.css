@@ -131,6 +131,13 @@ body {
 
 }
 
+/*   Thumbnails  */
+
+.thumbnail {
+	margin: 10px;
+}
+
+
 /*   Wells  */
 
 h1 {
